@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YenTUC
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data analyst and visualization
+- 🌱 I’m currently learning Python & Rust
+- 💞️ I’m looking to collaborate on Data analyst and visualization in Supply chain domain
 - 📫 How to reach me via yenmai2509@gmail.com
 
 <!---
